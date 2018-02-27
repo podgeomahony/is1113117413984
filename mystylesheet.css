@@ -7,3 +7,11 @@
 body {
     background-image: url("http://www.webdesigndev.com/wp-content/uploads/2015/02/Subtle-Light-Tile-Pattern-Vol2.jpg");
 }
+
+.hurling {
+    text-decoration: underline;
+}
+
+.football {
+    text-decoration: underline;
+}
